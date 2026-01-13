@@ -2,8 +2,8 @@
 // CS 271 Computer Architecture - Lab 00: Getting Started with ARM Assembly
 // Purdue University Fort Wayne
 // =============================================================================
-// STUDENT NAME: ___________________
-// DATE:         ___________________
+// STUDENT NAME: Henry Richhart
+// DATE:         01-13-2026
 // =============================================================================
 // OBJECTIVE:
 //   This is your first ARM assembly program! The goal is to verify that your
